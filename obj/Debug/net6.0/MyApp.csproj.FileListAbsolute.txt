@@ -1,0 +1,15 @@
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/bin/Debug/net6.0/MyApp
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/sebastienhartmann/Documents/Développement/dotNET/MyApp/obj/Debug/net6.0/ref/MyApp.dll
